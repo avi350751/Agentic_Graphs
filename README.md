@@ -1,4 +1,5 @@
-SIMPLE-LANGGRAPH 🧩
+### SIMPLE-LANGGRAPH 🧩
+
 A beginner-friendly LangGraph playground that demonstrates how to build graphs and sequential LLM workflows using typed state, nodes, and edges—all in small, runnable Jupyter notebooks.
 This repo is set up as a learning module with 3 progressive notebooks:
 
@@ -19,7 +20,8 @@ Running everything inside notebooks with clean, repeatable setup
 
 
 
-Repository Structure
+### Repository Structure
+
 SIMPLE-LANGGRAPH/
 ├─ 1_test_simple_graph.ipynb         # smallest possible LangGraph example
 ├─ 2_simple_llm_workflow.ipynb       # basic LLM-in-the-loop graph workflow
@@ -29,7 +31,7 @@ SIMPLE-LANGGRAPH/
 └─ langenv/                          # local virtual environment (optional)
 
 
-Quickstart
+### Quickstart
 1) Create & activate a virtual environment
 macOS / Linux
 python -m venv langenv
